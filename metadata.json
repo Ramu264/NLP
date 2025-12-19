@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SummarizeAI",
+  "description": "A high-performance text summarization tool powered by Gemini NLP, featuring customizable summary lengths, tones, and visual data insights.",
+  "requestFramePermissions": []
+}
